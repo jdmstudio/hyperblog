@@ -40,7 +40,7 @@ td {
 }
 
 #cabecera {
-  background: gray;
+  background: black;
   color: white;
   padding: 10px;
   margin: 10px;
@@ -48,5 +48,5 @@ td {
   font-weight: bold;
   font-family: 'Montserrat';
   text-transform: uppercase;
-  box-shadow: 4px 4px 14px black;
+  box-shadow: 4px 4px 14px orange;
 }
