@@ -37,3 +37,15 @@ td {
   margin-bottom: 20px;
 
 }
+
+#cabecera {
+  background: gray;
+  color: white;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 8px;
+  font-weight: bold;
+  font-family: 'Montserrat';
+  text-transform: uppercase;
+  box-shadow: 4px 4px 14px black;
+}
