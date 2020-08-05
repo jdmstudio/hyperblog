@@ -15,3 +15,12 @@ a:hover {
   color: white;
 
 }
+
+.main-p {
+  max-width: 250px;
+  margin: 0 auto;
+  padding: 30px;
+  color: green;
+  border: 2px solid blue;
+  border-radius: 5px 20px 5px;
+}
