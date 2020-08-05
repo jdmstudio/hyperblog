@@ -23,4 +23,17 @@ a:hover {
   color: green;
   border: 2px solid blue;
   border-radius: 5px 20px 5px;
+  box-shadow: 4px 4px 4px black;
+}
+
+table,
+td {
+  border: 2px solid orange;
+  border-radius: 4px;
+  color: black;
+  padding: 8px;
+  margin: 0 auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+
 }
